@@ -1,0 +1,12 @@
+numpy
+pandas
+peft
+torch
+transformers
+datasets
+accelerate
+bitsandbytes
+GPUtil
+ipywidgets
+sentencepiece
+protobuf
