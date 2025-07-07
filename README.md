@@ -279,6 +279,7 @@ if any(keyword in user_input.lower() for keyword in crisis_keywords):
 ### 📁 Output Files
 After running the notebook, you'll have:
 
+```
 /content/models/mental_health_causal_[timestamp]/
 ├── config.json                # Model configuration
 ├── pytorch_model.bin          # Full model weights
@@ -290,6 +291,7 @@ After running the notebook, you'll have:
 │   └── adapter_model.bin
 ├── training_results.json      # Performance metrics
 └── training_curves.png        # Loss visualization
+```
 
 ### 📚 Resources and References
 
