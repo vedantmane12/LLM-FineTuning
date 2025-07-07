@@ -21,6 +21,7 @@ build/
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints
+*run*
 
 # Pytest cache
 .pytest_cache/
