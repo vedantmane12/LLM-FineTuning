@@ -16,6 +16,10 @@ This project demonstrates how to fine-tune a Large Language Model (LLM) for sens
 ### ⚠️ Important Disclaimer
 This AI assistant is for educational and informational purposes only. It is NOT a replacement for professional mental health care. Always encourage users to seek help from qualified mental health professionals.
 
+## Video Walkthrough
+
+![Video Walkthrough](https://northeastern-my.sharepoint.com/:v:/g/personal/mane_v_northeastern_edu/ERPJuRLogK5GlU4gPEwxGgMB_2Rsn41HVVCXM3GYNDXWqA?e=8WQcw8)
+
 ## 📊 Model Performance
 
 | Metric | Value |
